@@ -3,7 +3,7 @@
 [모두의연구소](http://www.modulabs.co.kr) 풀잎스쿨 6기
 [**edwith 논문으로 보는 딥러닝의 맥**](https://www.edwith.org/deeplearningchoi)을 보며 같이 공부하는 사람들이 정리한 repository 입니다.
 
-이 자료들은 edwith 강의를 중심으로 해당 주제에 맞는 여러 참고 문헌들을 정리한 것입니다.
+이 자료들은 edwith 강의를 중심으로 해당 주제에 맞는 여러 참고 문헌들과 풀잎스쿨 발표자료를 정리한 것입니다.
 
 
 ### 1주 (2019. 01. 12.)
@@ -23,7 +23,7 @@
     * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [https://arxiv.org/abs/1502.03167](https://arxiv.org/abs/1502.03167)
   * 발표자료
     * 김경태님: 최성준님 발표자료 [pptx link](https://www.edwith.org/downloadFile/fileDownload?attachmentId=22472&autoClose=true)
-    * 한상훈님: Batch Normalization 발표자료 
+    * 한상훈님: Batch Normalization 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week02/Batch_Normalization_한상훈.pdf)
 
 ### 3주 (2019. 01. 26.)
 * [이미지의 각 픽셀을 분류하는 Semantic Segmentation](https://www.edwith.org/deeplearningchoi/lecture/15554/)
@@ -33,7 +33,7 @@
     * Learning deconvolution network for semantic segmentation [https://arxiv.org/abs/1505.04366](https://arxiv.org/abs/1505.04366)
     * DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [https://arxiv.org/abs/1606.00915](https://arxiv.org/abs/1606.00915)
   * 발표자료
-    * 문동지님: Fully Convolutional Networks for Semantic Segmentation 발표자료
-    * 김선호님: DeepLab 발표자료 
-    * 강재호님: UNet 발표자료 
+    * 문동지님: Fully Convolutional Networks for Semantic Segmentation 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week03/Fully_Convolutional_Network_문동지.pdf)
+    * 김선호님: DeepLab 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week03/DeepLab_김선호.pdf)
+    * 강재호님: UNet 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week03/UNet_강재호.pdf)
 
