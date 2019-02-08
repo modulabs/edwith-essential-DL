@@ -5,6 +5,9 @@
 
 이 자료들은 edwith 강의를 중심으로 해당 주제에 맞는 여러 참고 문헌들과 풀잎스쿨 발표자료를 정리한 것입니다.
 
+* 전체 발표자들: 강성현, 강재호, 김경태, 김선호, 문동지, 한상훈
+* 퍼실이: 이일구
+
 
 ### 1주 (2019. 01. 12.)
 * [4가지 CNN 살펴보기: AlexNet, VGG, GoogLeNet, ResNet](https://www.edwith.org/deeplearningchoi/lecture/15296/)
