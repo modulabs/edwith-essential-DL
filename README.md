@@ -56,7 +56,7 @@
   * 발표자료
     * 이규희님: Resnet v2 (Identity Mappings in Deep Residual Networks) 발표자료 [pdf link]()
     * 최성욱님: Exponential Ensembles 발표자료 [pdf link]()
-    * 조원양님: Wide ResNet 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week03/Wide_Residual_Networks_조원양.pdf)
+    * 조원양님: Wide ResNet 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week04/Wide_Residual_Networks_조원양.pdf)
   * 강의에서 제안한 참고문헌
     * Deep Residual Learning for Image Recognition [https://arxiv.org/abs/1512.03385](https://arxiv.org/abs/1512.03385)
     * Identity Mappings in Deep Residual Networks [https://arxiv.org/abs/1603.05027](https://arxiv.org/abs/1603.05027)
