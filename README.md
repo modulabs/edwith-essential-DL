@@ -54,8 +54,8 @@
 ### 4주 (2019. 02. 09.)
 * [Residual Networks가 왜 잘 되는지 해석해보기](https://www.edwith.org/deeplearningchoi/lecture/15566/)
   * 발표자료
-    * 이규희님: Resnet v2 (Identity Mappings in Deep Residual Networks) 발표자료 [pdf link]()
-    * 최성욱님: Exponential Ensembles 발표자료 [pdf link]()
+    * 이규희님: Resnet v2 (Identity Mappings in Deep Residual Networks) 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week04/Identity_Mappings_ResNet_이규ᄒdf)
+    * 최성욱님: Exponential Ensembles 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week04/ResNet_Ensemble_최성욱.pdf)
     * 조원양님: Wide ResNet 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week04/Wide_Residual_Networks_조원양.pdf)
   * 강의에서 제안한 참고문헌
     * Deep Residual Learning for Image Recognition [https://arxiv.org/abs/1512.03385](https://arxiv.org/abs/1512.03385)
@@ -64,7 +64,7 @@
     * Wide Residual Networks [https://arxiv.org/abs/1605.07146](https://arxiv.org/abs/1605.07146)
 
 
-### 5주 (2019. 02. 15.)
+### 5주 (2019. 02. 16.)
 * [Image Detection 방법론: RCNN, SPPNet, FastRCNN, FasterRCNN](https://www.edwith.org/deeplearningchoi/lecture/15568/)
   * 발표자료
     * 이일구님: R-CNN, SPPNet (최성준님 팔표자료 이용) [pptx link](https://www.edwith.org/downloadFile/fileDownload?attachmentId=22946&autoClose=true)
@@ -83,18 +83,34 @@
     * 이진원님 Faster R-CNN [PR12](https://www.youtube.com/watch?v=kcPAGIgBGRs)
 
 
-### 6주 (2019. 02. 22.)
+### 6주 (2019. 02. 23.)
 * [Image Detection 방법론: AttentionNet, SSD, YOLO YOLOv2](https://www.edwith.org/deeplearningchoi/lecture/15579/)
   * 발표자료
-    * 문동지님: SSD, YOLO 발표자료 [pdf link]()
-    * 조원양님: RetinaNet 발표자료 [pdf link]()
+    * 문동지님: SSD, YOLO 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week06/yolo_ssd_문동지.pdf)
+    * 조원양님: RetinaNet 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week06/FocalLossforDenseObjectDetectionReview_조원양.pdf)
   * 강의에서 제안한 참고문헌
     * AttentionNet: Aggregating Weak Directions for Accurate Object Detection [https://arxiv.org/abs/1506.07704](https://arxiv.org/abs/1506.07704)
     * You Only Look Once: Unified, Real-Time Object Detection [https://arxiv.org/abs/1506.02640](https://arxiv.org/abs/1506.02640)
     * YOLO9000: Better, Faster, Stronger [https://arxiv.org/abs/1612.08242](https://arxiv.org/abs/1612.08242)
     * SSD: Single Shot MultiBox Detector [https://arxiv.org/abs/1512.02325](https://arxiv.org/abs/1512.02325)
   * 더 보면 좋을 참고문헌 (블로그 등)
+    * 박진우님 YOLO [blog](https://curt-park.github.io/2017-03-26/yolo/)
     * 이진원님 YOLO9000 [PR12](https://www.youtube.com/watch?v=6fdclSGgeio&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&index=25&t=0s)
     * YOLOv3: An Incremental Improvement [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
     * 김태오님 Mask R-CNN [PR12](https://www.youtube.com/watch?v=RtSZALC9DlU&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&index=59&t=0s)
 
+
+### 7주 (2019. 03. 02.) 
+* 징검다리 휴일 (공부도 쉬는게 중요합니다)
+
+
+### 8주 (2019. 03. 09.) 
+* [이미지와 질문이 주어졌을 때 답을 맞추는 Visual QnA](https://www.edwith.org/deeplearningchoi/lecture/15580/)
+  * 발표자료
+    * 이일구님: DPPNet (최성준님 발표자료 이용) [pptx link](https://www.edwith.org/downloadFile/fileDownload?attachmentId=22956&autoClose=true)
+    * 한상훈님: Multimodal Compact Bilinear Pooling 발표자료 [pdf link](https://github.com/modulabs/edwith-essential-DL/blob/master/week08/Multimodal_Compact_Bilinear_Pooling_한ᄉ.pdf)
+  * 강의에서 제안한 참고문헌
+    * Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction [https://arxiv.org/abs/1511.05756](https://arxiv.org/abs/1511.05756)
+    * Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding [https://arxiv.org/abs/1606.01847](https://arxiv.org/abs/1606.01847)
+  * 더 보면 좋을 참고문헌 (블로그 등)
+    * DPPNet 논문에 나온 `Wu-Palmer` similarity [youbute](https://www.youtube.com/watch?v=2sQp7jJJmeg)
